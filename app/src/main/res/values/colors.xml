@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#ec2624</color>
+    <!--<color name="colorPrimaryDark">#2d2d2d</color>-->
     <color name="colorAccent">#FF4081</color>
+    <color name="colorMainBackround">#FBF2DC</color>
+    <color name="colorBackround">#c82922</color>
+    <color name="colorMainTitle">#ffffff</color>
+    <color name="coloSpin">#801515</color>
+    <color name="coloSpin2">#870000</color>
+    <color name="coloDarkGray">#242628</color>
+    <color name="colLidhtGray">#898A8B</color>
 </resources>

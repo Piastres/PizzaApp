@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PizzaApp</string>
+    <string name="startPage">0</string>
 </resources>
